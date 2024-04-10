@@ -1,0 +1,12 @@
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\bin\Debug\MTP4_1_REC.exe.config
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\bin\Debug\MTP4_1_REC.exe
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\bin\Debug\MTP4_1_REC.pdb
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\obj\Debug\MTP4_1_REC.csproj.AssemblyReference.cache
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\obj\Debug\MTP4_1_REC.Form1.resources
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\obj\Debug\MTP4_1_REC.Properties.Resources.resources
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\obj\Debug\MTP4_1_REC.csproj.GenerateResource.cache
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\obj\Debug\MTP4_1_REC.csproj.CoreCompileInputs.cache
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\obj\Debug\MTP4_1_REC.exe
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\obj\Debug\MTP4_1_REC.pdb
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\obj\Debug\MTP4_1_REC.Form2.resources
+C:\Users\kissv\source\repos\MTP4_1_REC\MTP4_1_REC\obj\Debug\MTP4_1_REC.Form3.resources
