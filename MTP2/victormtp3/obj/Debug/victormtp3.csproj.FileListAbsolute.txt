@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\victormtp3\victormtp3\bin\Debug\victormtp3.exe.config
+C:\Users\Student\source\repos\victormtp3\victormtp3\bin\Debug\victormtp3.exe
+C:\Users\Student\source\repos\victormtp3\victormtp3\bin\Debug\victormtp3.pdb
+C:\Users\Student\source\repos\victormtp3\victormtp3\obj\Debug\victormtp3.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\victormtp3\victormtp3\obj\Debug\victormtp3.Form1.resources
+C:\Users\Student\source\repos\victormtp3\victormtp3\obj\Debug\victormtp3.Properties.Resources.resources
+C:\Users\Student\source\repos\victormtp3\victormtp3\obj\Debug\victormtp3.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\victormtp3\victormtp3\obj\Debug\victormtp3.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\victormtp3\victormtp3\obj\Debug\victormtp3.exe
+C:\Users\Student\source\repos\victormtp3\victormtp3\obj\Debug\victormtp3.pdb
